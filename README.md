@@ -1,6 +1,6 @@
-# first-vue
+# PortFolio
 
-> A Vue.js project
+> PortFolio-Vue
 
 ## Build Setup
 
