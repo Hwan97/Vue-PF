@@ -13,7 +13,7 @@
     <div class="main_link">
       <div class="main_link_content shadow">
         <a href="http://allinfom.tistory.com/">Blog</a>
-        <a href="https://hwan97.github.io/Jh-PortFolio">PortFolio</a>
+        <a href="https://hwan97.github.io/2018-PF/">PortFolio</a>
         <a href="https://github.com/Hwan97">GitHub</a>
       </div>
     </div>
